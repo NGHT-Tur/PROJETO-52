@@ -21,9 +21,9 @@ a:link{
 }
 
 /*a:old*/
-*a:clicked*/
+/*a:clicked*/
 /*a:seen{*/
-/*a:visited{*/
+a:visited{
     color: #FFAAFF;
 }
 
@@ -40,10 +40,10 @@ a:link{
     transform: translate(-50%,-50%);
 }
 .bodyimg h3{
-    color:#CFAAFF;
+    color:#f2f1f3;
     font-family: fantasy;
     font-size: 30px;
-    width: 1600px;
+    width: 2090px;
     position: absolute;
     top:40%;
     left:80%;
@@ -71,9 +71,9 @@ a:link{
     
 }
 
-/* .origami:hover{ */
+ .origami:hover{ 
 /*.origami : mouseover{*/
-*.origami:link{*/
+/*.origami:link{*/
 /*origami:hover{*/
 
     transform: scale(1.2);
